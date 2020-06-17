@@ -4,7 +4,7 @@ while x > 0
   puts "#{number} SECOND(S)!"
 
 
-def countdown
+def countdown(x)
   "HAPPY NEW YEAR!"
-  end
+  
 end
