@@ -1,10 +1,10 @@
 x = 10
-while x > 0
+while x == 0
   x -= 1
   puts "#{number} SECOND(S)!"
 
 
-def countdown(x)
+def countdown
   "HAPPY NEW YEAR!"
   end
 end
