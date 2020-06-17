@@ -5,6 +5,7 @@ while x == 0
 
 
 def countdown
-  "HAPPY NEW YEAR!"
-  end
+
 end
+
+returns "HAPPY NEW YEARS!"
