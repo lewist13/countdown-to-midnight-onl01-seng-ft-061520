@@ -6,5 +6,5 @@ while x > 0
 
 def countdown(x)
   "HAPPY NEW YEAR!"
-  
+  end
 end
